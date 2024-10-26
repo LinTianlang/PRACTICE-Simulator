@@ -1,0 +1,5 @@
+{
+    "urdf-visualizer.packages": {
+        "balance_infantry": "/home/linpc/PRACTICE-Simulator/practice_sim/src/balance_infantry_urdf/*"
+    }
+  }

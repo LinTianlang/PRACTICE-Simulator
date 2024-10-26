@@ -1,0 +1,33 @@
+[0.442s] Invoking command in '/home/linpc/practice_sim/src/balance_infantry_urdf': PYTHONPATH=/home/linpc/practice_sim/build/balance_infantry_urdf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/linpc/practice_sim/install/balance_infantry_urdf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/balance_infantry_urdf build --build-base /home/linpc/practice_sim/build/balance_infantry_urdf/build install --record /home/linpc/practice_sim/build/balance_infantry_urdf/install.log --single-version-externally-managed install_data
+[0.577s] running egg_info
+[0.577s] creating ../../build/balance_infantry_urdf/balance_infantry_urdf.egg-info
+[0.578s] writing ../../build/balance_infantry_urdf/balance_infantry_urdf.egg-info/PKG-INFO
+[0.578s] writing dependency_links to ../../build/balance_infantry_urdf/balance_infantry_urdf.egg-info/dependency_links.txt
+[0.578s] writing entry points to ../../build/balance_infantry_urdf/balance_infantry_urdf.egg-info/entry_points.txt
+[0.578s] writing requirements to ../../build/balance_infantry_urdf/balance_infantry_urdf.egg-info/requires.txt
+[0.578s] writing top-level names to ../../build/balance_infantry_urdf/balance_infantry_urdf.egg-info/top_level.txt
+[0.582s] writing manifest file '../../build/balance_infantry_urdf/balance_infantry_urdf.egg-info/SOURCES.txt'
+[0.583s] reading manifest file '../../build/balance_infantry_urdf/balance_infantry_urdf.egg-info/SOURCES.txt'
+[0.583s] writing manifest file '../../build/balance_infantry_urdf/balance_infantry_urdf.egg-info/SOURCES.txt'
+[0.583s] running build
+[0.583s] running build_py
+[0.583s] creating /home/linpc/practice_sim/build/balance_infantry_urdf/build
+[0.583s] creating /home/linpc/practice_sim/build/balance_infantry_urdf/build/lib
+[0.584s] creating /home/linpc/practice_sim/build/balance_infantry_urdf/build/lib/balance_infantry_urdf
+[0.584s] copying balance_infantry_urdf/__init__.py -> /home/linpc/practice_sim/build/balance_infantry_urdf/build/lib/balance_infantry_urdf
+[0.584s] running install
+[0.584s] running install_lib
+[0.584s] creating /home/linpc/practice_sim/install/balance_infantry_urdf/lib/python3.10/site-packages/balance_infantry_urdf
+[0.584s] copying /home/linpc/practice_sim/build/balance_infantry_urdf/build/lib/balance_infantry_urdf/__init__.py -> /home/linpc/practice_sim/install/balance_infantry_urdf/lib/python3.10/site-packages/balance_infantry_urdf
+[0.584s] byte-compiling /home/linpc/practice_sim/install/balance_infantry_urdf/lib/python3.10/site-packages/balance_infantry_urdf/__init__.py to __init__.cpython-310.pyc
+[0.584s] running install_data
+[0.584s] creating /home/linpc/practice_sim/install/balance_infantry_urdf/share/ament_index
+[0.585s] creating /home/linpc/practice_sim/install/balance_infantry_urdf/share/ament_index/resource_index
+[0.585s] creating /home/linpc/practice_sim/install/balance_infantry_urdf/share/ament_index/resource_index/packages
+[0.585s] copying resource/balance_infantry_urdf -> /home/linpc/practice_sim/install/balance_infantry_urdf/share/ament_index/resource_index/packages
+[0.585s] copying package.xml -> /home/linpc/practice_sim/install/balance_infantry_urdf/share/balance_infantry_urdf
+[0.585s] running install_egg_info
+[0.586s] Copying ../../build/balance_infantry_urdf/balance_infantry_urdf.egg-info to /home/linpc/practice_sim/install/balance_infantry_urdf/lib/python3.10/site-packages/balance_infantry_urdf-0.0.0-py3.10.egg-info
+[0.586s] running install_scripts
+[0.599s] writing list of installed files to '/home/linpc/practice_sim/build/balance_infantry_urdf/install.log'
+[0.611s] Invoked command in '/home/linpc/practice_sim/src/balance_infantry_urdf' returned '0': PYTHONPATH=/home/linpc/practice_sim/build/balance_infantry_urdf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/linpc/practice_sim/install/balance_infantry_urdf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/balance_infantry_urdf build --build-base /home/linpc/practice_sim/build/balance_infantry_urdf/build install --record /home/linpc/practice_sim/build/balance_infantry_urdf/install.log --single-version-externally-managed install_data

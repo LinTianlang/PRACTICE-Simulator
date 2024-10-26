@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/balance_infantry_urdf/balance_infantry_urdf.egg-info
+writing ../../build/balance_infantry_urdf/balance_infantry_urdf.egg-info/PKG-INFO
+writing dependency_links to ../../build/balance_infantry_urdf/balance_infantry_urdf.egg-info/dependency_links.txt
+writing entry points to ../../build/balance_infantry_urdf/balance_infantry_urdf.egg-info/entry_points.txt
+writing requirements to ../../build/balance_infantry_urdf/balance_infantry_urdf.egg-info/requires.txt
+writing top-level names to ../../build/balance_infantry_urdf/balance_infantry_urdf.egg-info/top_level.txt
+writing manifest file '../../build/balance_infantry_urdf/balance_infantry_urdf.egg-info/SOURCES.txt'
+reading manifest file '../../build/balance_infantry_urdf/balance_infantry_urdf.egg-info/SOURCES.txt'
+writing manifest file '../../build/balance_infantry_urdf/balance_infantry_urdf.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/linpc/practice_sim/build/balance_infantry_urdf/build
+creating /home/linpc/practice_sim/build/balance_infantry_urdf/build/lib
+creating /home/linpc/practice_sim/build/balance_infantry_urdf/build/lib/balance_infantry_urdf
+copying balance_infantry_urdf/__init__.py -> /home/linpc/practice_sim/build/balance_infantry_urdf/build/lib/balance_infantry_urdf
+running install
+running install_lib
+creating /home/linpc/practice_sim/install/balance_infantry_urdf/lib/python3.10/site-packages/balance_infantry_urdf
+copying /home/linpc/practice_sim/build/balance_infantry_urdf/build/lib/balance_infantry_urdf/__init__.py -> /home/linpc/practice_sim/install/balance_infantry_urdf/lib/python3.10/site-packages/balance_infantry_urdf
+byte-compiling /home/linpc/practice_sim/install/balance_infantry_urdf/lib/python3.10/site-packages/balance_infantry_urdf/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/linpc/practice_sim/install/balance_infantry_urdf/share/ament_index
+creating /home/linpc/practice_sim/install/balance_infantry_urdf/share/ament_index/resource_index
+creating /home/linpc/practice_sim/install/balance_infantry_urdf/share/ament_index/resource_index/packages
+copying resource/balance_infantry_urdf -> /home/linpc/practice_sim/install/balance_infantry_urdf/share/ament_index/resource_index/packages
+copying package.xml -> /home/linpc/practice_sim/install/balance_infantry_urdf/share/balance_infantry_urdf
+running install_egg_info
+Copying ../../build/balance_infantry_urdf/balance_infantry_urdf.egg-info to /home/linpc/practice_sim/install/balance_infantry_urdf/lib/python3.10/site-packages/balance_infantry_urdf-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/linpc/practice_sim/build/balance_infantry_urdf/install.log'

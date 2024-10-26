@@ -1,0 +1,30 @@
+[0.007s] Invoking command in '/home/linpc/practice_sim/build/balance_infantry_urdf': /usr/bin/cmake /home/linpc/practice_sim/src/balance_infantry_urdf -DCMAKE_INSTALL_PREFIX=/home/linpc/practice_sim/install/balance_infantry_urdf
+[0.024s] [0mCMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+[0.024s]   Compatibility with CMake < 2.8.12 will be removed from a future version of
+[0.024s]   CMake.
+[0.024s] 
+[0.024s]   Update the VERSION argument <min> value or use a ...<max> suffix to tell
+[0.024s]   CMake that the project does not need compatibility with older versions.
+[0.024s] 
+[0.024s] [0m
+[0.031s] [0mCMake Error: Could not find cmake module file: CMakeDetermine平衡步兵urdf.SLDASMCompiler.cmake[0m
+[0.031s] [0mCMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+[0.031s] Missing variable is:
+[0.031s] CMAKE_平衡步兵urdf.SLDASM_COMPILER_ENV_VAR[0m
+[0.031s] [0mCMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+[0.031s] Missing variable is:
+[0.031s] CMAKE_平衡步兵urdf.SLDASM_COMPILER[0m
+[0.031s] [0mCMake Error: Could not find cmake module file: /home/linpc/practice_sim/build/balance_infantry_urdf/CMakeFiles/3.22.1/CMake平衡步兵urdf.SLDASMCompiler.cmake[0m
+[0.032s] [31mCMake Error at CMakeLists.txt:3 (project):
+[0.032s]   No CMAKE_平衡步兵urdf.SLDASM_COMPILER could be found.
+[0.032s] 
+[0.032s]   Tell CMake where to find the compiler by setting the CMake cache entry
+[0.032s]   CMAKE_平衡步兵urdf.SLDASM_COMPILER to the full path to the compiler, or
+[0.032s]   to the compiler name if it is in the PATH.
+[0.032s] 
+[0.032s] [0m
+[0.032s] [0mCMake Error: Could not find cmake module file: CMake平衡步兵urdf.SLDASMInformation.cmake[0m
+[0.032s] [0mCMake Error: CMAKE_平衡步兵urdf.SLDASM_COMPILER not set, after EnableLanguage[0m
+[0.033s] -- Configuring incomplete, errors occurred!
+[0.033s] See also "/home/linpc/practice_sim/build/balance_infantry_urdf/CMakeFiles/CMakeOutput.log".
+[0.034s] Invoked command in '/home/linpc/practice_sim/build/balance_infantry_urdf' returned '1': /usr/bin/cmake /home/linpc/practice_sim/src/balance_infantry_urdf -DCMAKE_INSTALL_PREFIX=/home/linpc/practice_sim/install/balance_infantry_urdf

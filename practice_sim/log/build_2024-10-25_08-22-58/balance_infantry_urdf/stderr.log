@@ -1,0 +1,26 @@
+[0mCMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 2.8.12 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value or use a ...<max> suffix to tell
+  CMake that the project does not need compatibility with older versions.
+
+[0m
+[0mCMake Error: Could not find cmake module file: CMakeDetermine平衡步兵urdf.SLDASMCompiler.cmake[0m
+[0mCMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_平衡步兵urdf.SLDASM_COMPILER_ENV_VAR[0m
+[0mCMake Error: Error required internal CMake variable not set, cmake may not be built correctly.
+Missing variable is:
+CMAKE_平衡步兵urdf.SLDASM_COMPILER[0m
+[0mCMake Error: Could not find cmake module file: /home/linpc/practice_sim/build/balance_infantry_urdf/CMakeFiles/3.22.1/CMake平衡步兵urdf.SLDASMCompiler.cmake[0m
+[31mCMake Error at CMakeLists.txt:3 (project):
+  No CMAKE_平衡步兵urdf.SLDASM_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting the CMake cache entry
+  CMAKE_平衡步兵urdf.SLDASM_COMPILER to the full path to the compiler, or
+  to the compiler name if it is in the PATH.
+
+[0m
+[0mCMake Error: Could not find cmake module file: CMake平衡步兵urdf.SLDASMInformation.cmake[0m
+[0mCMake Error: CMAKE_平衡步兵urdf.SLDASM_COMPILER not set, after EnableLanguage[0m

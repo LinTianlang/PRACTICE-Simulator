@@ -1,0 +1,2 @@
+Invoking command in '/home/linpc/practice_sim/build/balance_infantry_urdf': /usr/bin/cmake /home/linpc/practice_sim/src/balance_infantry_urdf -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/linpc/practice_sim/install/balance_infantry_urdf
+Invoked command in '/home/linpc/practice_sim/build/balance_infantry_urdf' returned '1': /usr/bin/cmake /home/linpc/practice_sim/src/balance_infantry_urdf -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/linpc/practice_sim/install/balance_infantry_urdf

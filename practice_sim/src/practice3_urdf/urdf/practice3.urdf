@@ -491,7 +491,7 @@
     <child
       link="R_Wheel_Link" />
     <axis
-      xyz="0 0 0" />
+      xyz="0 0.577491348313505 -0.816396804637947" />
     <limit
       lower="0"
       upper="0"

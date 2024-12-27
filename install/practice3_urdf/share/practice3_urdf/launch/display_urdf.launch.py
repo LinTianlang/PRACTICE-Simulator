@@ -10,7 +10,7 @@ def generate_launch_description():
 
     ld = LaunchDescription()
     pkg_share = FindPackageShare(package=package_name).find(package_name) 
-    urdf_model_path = os.path.join(pkg_share,f'practice3/urdf/{urdf_name}')
+    urdf_model_path = os.path.join(pkg_share,f'urdf/{urdf_name}')
 
     robot_state_publisher_node = Node(
         package='robot_state_publisher',

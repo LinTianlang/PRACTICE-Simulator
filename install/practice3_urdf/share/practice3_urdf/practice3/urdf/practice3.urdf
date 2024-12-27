@@ -88,14 +88,14 @@
     name="L_Hip_Joint"
     type="revolute">
     <origin
-      xyz="-0.057 0.18415 0"
-      rpy="0 -0.076133 -3.1416" />
+      xyz="0.18415 0.0569999999999967 0.202799999999937"
+      rpy="0 -0.0761333556172417 1.5707963267949"  />
     <parent
       link="base_link" />
     <child
       link="L_Hip_Link" />
     <axis
-      xyz="0 0 -1" />
+      xyz="0.997103255683817 0 -0.0760598284558406" />
     <limit
       lower="0"
       upper="0"
@@ -153,7 +153,7 @@
     <child
       link="L_Knee_Link" />
     <axis
-      xyz="0 0 1" />
+      xyz="0 0.347852975024765 0.937549096189858" />
     <limit
       lower="0"
       upper="0"
@@ -264,7 +264,7 @@
     <child
       link="L_Wheel_Link" />
     <axis
-      xyz="0 0 1" />
+      xyz="0 0.577491348313505 -0.816396804637947" />
     <limit
       lower="0"
       upper="0"
@@ -275,17 +275,17 @@
     name="R_Hip_Link">
     <inertial>
       <origin
-        xyz="0 0 0"
+        xyz="0.0117536026473243 -0.013943067505786 -0.0949549900093473"
         rpy="0 0 0" />
       <mass
-        value="0" />
+        value="0.337321088171608" />
       <inertia
-        ixx="0"
-        ixy="0"
-        ixz="0"
-        iyy="0"
-        iyz="0"
-        izz="0" />
+        ixx="0.000798084382550188"
+        ixy="7.17049119779467E-08"
+        ixz="-2.43050588166002E-05"
+        iyy="0.000848108874132959"
+        iyz="-1.62164192785438E-07"
+        izz="5.30345352819092E-05" />
     </inertial>
     <visual>
       <origin
@@ -315,14 +315,14 @@
     name="R_Hip_Joint"
     type="revolute">
     <origin
-      xyz="-0.22448 -0.18865 -0.086956"
-      rpy="3.1416 1.0007 0" />
+      xyz="-0.188649999999999 0.224484620762522 0.115844278991675"
+      rpy="3.14159265358979 1.00070721609115 -1.5707963267949" />
     <parent
       link="base_link" />
     <child
       link="R_Hip_Link" />
     <axis
-      xyz="0 0 1" />
+      xyz="0.539707068979717 0 -0.841852884828058" />
     <limit
       lower="0"
       upper="0"
@@ -380,7 +380,7 @@
     <child
       link="R_Knee_Link" />
     <axis
-      xyz="0 0 1" />
+      xyz="0 0.55876909327944 -0.829323278580598" />
     <limit
       lower="0"
       upper="0"
@@ -391,8 +391,9 @@
     name="R_Ankle_Link">
     <inertial>
       <origin
-        xyz="0.00032795 0.014257 -0.065364"
+        xyz="0.00032795 0.014257 0"
         rpy="0 0 0" />
+        <!-- -0.065364 -->
       <mass
         value="0.30256" />
       <inertia
@@ -414,7 +415,7 @@
       <material
         name="">
         <color
-          rgba="1 1 1 1" />
+          rgba="1 1 0.5 1" />
       </material>
     </visual>
     <collision>
@@ -491,7 +492,7 @@
     <child
       link="R_Wheel_Link" />
     <axis
-      xyz="0 0 1" />
+      xyz="0 0.577491348313505 -0.816396804637947" />
     <limit
       lower="0"
       upper="0"

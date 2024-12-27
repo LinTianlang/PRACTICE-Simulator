@@ -68,3 +68,10 @@
         <origin xyz="0 0 0" />
     </joint>
 </robot>
+
+  <mujoco>
+        <compiler 
+        meshdir="/home/linpc/PRACTICE-Simulator/practice_sim/src/balance_infantry_urdf/meshes" 
+        balanceinertia="true" 
+        discardvisual="false" />
+  </mujoco>

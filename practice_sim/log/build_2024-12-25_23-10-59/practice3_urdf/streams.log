@@ -1,0 +1,28 @@
+[0.979s] Invoking command in '/home/linpc/PRACTICE-Simulator/practice_sim/src/practice3_urdf': PYTHONPATH=/home/linpc/PRACTICE-Simulator/practice_sim/build/practice3_urdf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/linpc/PRACTICE-Simulator/practice_sim/install/practice3_urdf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/practice3_urdf build --build-base /home/linpc/PRACTICE-Simulator/practice_sim/build/practice3_urdf/build install --record /home/linpc/PRACTICE-Simulator/practice_sim/build/practice3_urdf/install.log --single-version-externally-managed install_data
+[1.228s] running egg_info
+[1.228s] creating ../../build/practice3_urdf/practice3_urdf.egg-info
+[1.229s] writing ../../build/practice3_urdf/practice3_urdf.egg-info/PKG-INFO
+[1.229s] writing dependency_links to ../../build/practice3_urdf/practice3_urdf.egg-info/dependency_links.txt
+[1.229s] writing entry points to ../../build/practice3_urdf/practice3_urdf.egg-info/entry_points.txt
+[1.229s] writing requirements to ../../build/practice3_urdf/practice3_urdf.egg-info/requires.txt
+[1.229s] writing top-level names to ../../build/practice3_urdf/practice3_urdf.egg-info/top_level.txt
+[1.230s] writing manifest file '../../build/practice3_urdf/practice3_urdf.egg-info/SOURCES.txt'
+[1.232s] reading manifest file '../../build/practice3_urdf/practice3_urdf.egg-info/SOURCES.txt'
+[1.233s] writing manifest file '../../build/practice3_urdf/practice3_urdf.egg-info/SOURCES.txt'
+[1.233s] running build
+[1.234s] running build_py
+[1.234s] creating /home/linpc/PRACTICE-Simulator/practice_sim/build/practice3_urdf/build
+[1.234s] creating /home/linpc/PRACTICE-Simulator/practice_sim/build/practice3_urdf/build/lib
+[1.234s] creating /home/linpc/PRACTICE-Simulator/practice_sim/build/practice3_urdf/build/lib/practice3_urdf
+[1.234s] copying practice3_urdf/__init__.py -> /home/linpc/PRACTICE-Simulator/practice_sim/build/practice3_urdf/build/lib/practice3_urdf
+[1.234s] running install
+[1.234s] running install_lib
+[1.235s] creating /home/linpc/PRACTICE-Simulator/practice_sim/install/practice3_urdf/lib/python3.10/site-packages/practice3_urdf
+[1.235s] copying /home/linpc/PRACTICE-Simulator/practice_sim/build/practice3_urdf/build/lib/practice3_urdf/__init__.py -> /home/linpc/PRACTICE-Simulator/practice_sim/install/practice3_urdf/lib/python3.10/site-packages/practice3_urdf
+[1.235s] byte-compiling /home/linpc/PRACTICE-Simulator/practice_sim/install/practice3_urdf/lib/python3.10/site-packages/practice3_urdf/__init__.py to __init__.cpython-310.pyc
+[1.236s] running install_data
+[1.236s] creating /home/linpc/PRACTICE-Simulator/practice_sim/install/practice3_urdf/share/ament_index
+[1.236s] creating /home/linpc/PRACTICE-Simulator/practice_sim/install/practice3_urdf/share/ament_index/resource_index
+[1.236s] creating /home/linpc/PRACTICE-Simulator/practice_sim/install/practice3_urdf/share/ament_index/resource_index/packages
+[1.236s] error: can't copy 'resource/practice3_urdf': doesn't exist or not a regular file
+[1.253s] Invoked command in '/home/linpc/PRACTICE-Simulator/practice_sim/src/practice3_urdf' returned '1': PYTHONPATH=/home/linpc/PRACTICE-Simulator/practice_sim/build/practice3_urdf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/linpc/PRACTICE-Simulator/practice_sim/install/practice3_urdf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/practice3_urdf build --build-base /home/linpc/PRACTICE-Simulator/practice_sim/build/practice3_urdf/build install --record /home/linpc/PRACTICE-Simulator/practice_sim/build/practice3_urdf/install.log --single-version-externally-managed install_data

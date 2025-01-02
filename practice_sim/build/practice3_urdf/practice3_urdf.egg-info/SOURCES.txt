@@ -9,11 +9,9 @@ setup.py
 ../../build/practice3_urdf/practice3_urdf.egg-info/top_level.txt
 ../../build/practice3_urdf/practice3_urdf.egg-info/zip-safe
 launch/display_urdf.launch.py
-meshes/L_Ankle_Link.STL
 meshes/L_Hip_Link.STL
 meshes/L_Knee_Link.STL
 meshes/L_Wheel_Link.STL
-meshes/R_Ankle_Link.STL
 meshes/R_Hip_Link.STL
 meshes/R_Knee_Link.STL
 meshes/R_Wheel_Link.STL
@@ -23,4 +21,12 @@ resource/practice3_urdf
 test/test_copyright.py
 test/test_flake8.py
 test/test_pep257.py
+urdf/L_Hip_Link.STL
+urdf/L_Knee_Link.STL
+urdf/L_Wheel_Link.STL
+urdf/R_Hip_Link.STL
+urdf/R_Knee_Link.STL
+urdf/R_Wheel_Link.STL
+urdf/base_link.STL
+urdf/practice3.csv
 urdf/practice3.urdf

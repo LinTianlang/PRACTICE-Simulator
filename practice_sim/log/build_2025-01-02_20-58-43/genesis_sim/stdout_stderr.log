@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/genesis_sim/genesis_sim.egg-info
+writing ../../build/genesis_sim/genesis_sim.egg-info/PKG-INFO
+writing dependency_links to ../../build/genesis_sim/genesis_sim.egg-info/dependency_links.txt
+writing entry points to ../../build/genesis_sim/genesis_sim.egg-info/entry_points.txt
+writing requirements to ../../build/genesis_sim/genesis_sim.egg-info/requires.txt
+writing top-level names to ../../build/genesis_sim/genesis_sim.egg-info/top_level.txt
+writing manifest file '../../build/genesis_sim/genesis_sim.egg-info/SOURCES.txt'
+reading manifest file '../../build/genesis_sim/genesis_sim.egg-info/SOURCES.txt'
+writing manifest file '../../build/genesis_sim/genesis_sim.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/lin/PRACTICE-Simulator/practice_sim/build/genesis_sim/build
+creating /home/lin/PRACTICE-Simulator/practice_sim/build/genesis_sim/build/lib
+creating /home/lin/PRACTICE-Simulator/practice_sim/build/genesis_sim/build/lib/genesis_sim
+copying genesis_sim/__init__.py -> /home/lin/PRACTICE-Simulator/practice_sim/build/genesis_sim/build/lib/genesis_sim
+running install
+running install_lib
+creating /home/lin/PRACTICE-Simulator/practice_sim/install/genesis_sim/lib/python3.10/site-packages/genesis_sim
+copying /home/lin/PRACTICE-Simulator/practice_sim/build/genesis_sim/build/lib/genesis_sim/__init__.py -> /home/lin/PRACTICE-Simulator/practice_sim/install/genesis_sim/lib/python3.10/site-packages/genesis_sim
+byte-compiling /home/lin/PRACTICE-Simulator/practice_sim/install/genesis_sim/lib/python3.10/site-packages/genesis_sim/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/lin/PRACTICE-Simulator/practice_sim/install/genesis_sim/share/ament_index
+creating /home/lin/PRACTICE-Simulator/practice_sim/install/genesis_sim/share/ament_index/resource_index
+creating /home/lin/PRACTICE-Simulator/practice_sim/install/genesis_sim/share/ament_index/resource_index/packages
+copying resource/genesis_sim -> /home/lin/PRACTICE-Simulator/practice_sim/install/genesis_sim/share/ament_index/resource_index/packages
+copying package.xml -> /home/lin/PRACTICE-Simulator/practice_sim/install/genesis_sim/share/genesis_sim
+running install_egg_info
+Copying ../../build/genesis_sim/genesis_sim.egg-info to /home/lin/PRACTICE-Simulator/practice_sim/install/genesis_sim/lib/python3.10/site-packages/genesis_sim-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/lin/PRACTICE-Simulator/practice_sim/build/genesis_sim/install.log'

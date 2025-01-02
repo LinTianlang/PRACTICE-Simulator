@@ -394,9 +394,9 @@
   </joint>
 </robot>
 
- <mujoco>
+ <!-- <mujoco>
         <compiler 
         meshdir="/home/linpc/PRACTICE-Simulator/practice_sim/src/practice3_urdf/meshes" 
         balanceinertia="true" 
         discardvisual="false" />
-  </mujoco>
+  </mujoco> -->

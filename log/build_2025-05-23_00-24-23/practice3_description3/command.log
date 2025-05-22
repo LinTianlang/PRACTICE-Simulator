@@ -1,0 +1,2 @@
+Invoking command in '/home/lin/PRACTICE-Simulator/build/practice3_description3': /usr/bin/cmake /home/lin/PRACTICE-Simulator/practice_sim/src/practice3_description3 -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/lin/PRACTICE-Simulator/install/practice3_description3
+Invoked command in '/home/lin/PRACTICE-Simulator/build/practice3_description3' returned '1': /usr/bin/cmake /home/lin/PRACTICE-Simulator/practice_sim/src/practice3_description3 -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/lin/PRACTICE-Simulator/install/practice3_description3

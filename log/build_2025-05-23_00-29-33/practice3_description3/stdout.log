@@ -1,0 +1,38 @@
+running egg_info
+creating ../../../build/practice3_description3/practice3_description3.egg-info
+writing ../../../build/practice3_description3/practice3_description3.egg-info/PKG-INFO
+writing dependency_links to ../../../build/practice3_description3/practice3_description3.egg-info/dependency_links.txt
+writing entry points to ../../../build/practice3_description3/practice3_description3.egg-info/entry_points.txt
+writing requirements to ../../../build/practice3_description3/practice3_description3.egg-info/requires.txt
+writing top-level names to ../../../build/practice3_description3/practice3_description3.egg-info/top_level.txt
+writing manifest file '../../../build/practice3_description3/practice3_description3.egg-info/SOURCES.txt'
+reading manifest file '../../../build/practice3_description3/practice3_description3.egg-info/SOURCES.txt'
+writing manifest file '../../../build/practice3_description3/practice3_description3.egg-info/SOURCES.txt'
+running build
+running install
+running install_data
+creating /home/lin/PRACTICE-Simulator/install/practice3_description3/share/practice3_description3/launch
+copying launch/display_urdf.launch.py -> /home/lin/PRACTICE-Simulator/install/practice3_description3/share/practice3_description3/launch
+creating /home/lin/PRACTICE-Simulator/install/practice3_description3/share/practice3_description3/urdf
+copying urdf/practice3_description3.csv -> /home/lin/PRACTICE-Simulator/install/practice3_description3/share/practice3_description3/urdf
+copying urdf/practice3_description3.urdf -> /home/lin/PRACTICE-Simulator/install/practice3_description3/share/practice3_description3/urdf
+creating /home/lin/PRACTICE-Simulator/install/practice3_description3/share/practice3_description3/meshes
+copying meshes/rf_guidewheel_link.STL -> /home/lin/PRACTICE-Simulator/install/practice3_description3/share/practice3_description3/meshes
+copying meshes/gimbal_pitch_link.STL -> /home/lin/PRACTICE-Simulator/install/practice3_description3/share/practice3_description3/meshes
+copying meshes/right_hip_link_1.STL -> /home/lin/PRACTICE-Simulator/install/practice3_description3/share/practice3_description3/meshes
+copying meshes/left_knee_link.STL -> /home/lin/PRACTICE-Simulator/install/practice3_description3/share/practice3_description3/meshes
+copying meshes/gimbal_yaw_link.STL -> /home/lin/PRACTICE-Simulator/install/practice3_description3/share/practice3_description3/meshes
+copying meshes/lb_guidewheel_link.STL -> /home/lin/PRACTICE-Simulator/install/practice3_description3/share/practice3_description3/meshes
+copying meshes/rb_guidewheel_link.STL -> /home/lin/PRACTICE-Simulator/install/practice3_description3/share/practice3_description3/meshes
+copying meshes/right_hip_link_2.STL -> /home/lin/PRACTICE-Simulator/install/practice3_description3/share/practice3_description3/meshes
+copying meshes/left_hip_link_2.STL -> /home/lin/PRACTICE-Simulator/install/practice3_description3/share/practice3_description3/meshes
+copying meshes/lf_guidewheel_link.STL -> /home/lin/PRACTICE-Simulator/install/practice3_description3/share/practice3_description3/meshes
+copying meshes/base_link.STL -> /home/lin/PRACTICE-Simulator/install/practice3_description3/share/practice3_description3/meshes
+copying meshes/left_hip_link_1.STL -> /home/lin/PRACTICE-Simulator/install/practice3_description3/share/practice3_description3/meshes
+copying meshes/right_knee_link.STL -> /home/lin/PRACTICE-Simulator/install/practice3_description3/share/practice3_description3/meshes
+copying meshes/left_wheel_link.STL -> /home/lin/PRACTICE-Simulator/install/practice3_description3/share/practice3_description3/meshes
+copying meshes/right_wheel_link.STL -> /home/lin/PRACTICE-Simulator/install/practice3_description3/share/practice3_description3/meshes
+running install_egg_info
+Copying ../../../build/practice3_description3/practice3_description3.egg-info to /home/lin/PRACTICE-Simulator/install/practice3_description3/lib/python3.10/site-packages/practice3_description3-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/lin/PRACTICE-Simulator/build/practice3_description3/install.log'

@@ -1,0 +1,52 @@
+[0.560s] Invoking command in '/home/lin/PRACTICE-Simulator/practice_sim/src/practice3_urdf': PYTHONPATH=/home/lin/PRACTICE-Simulator/build/practice3_urdf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lin/PRACTICE-Simulator/install/practice3_urdf/lib/python3.10/site-packages: /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/practice3_urdf build --build-base /home/lin/PRACTICE-Simulator/build/practice3_urdf/build install --record /home/lin/PRACTICE-Simulator/build/practice3_urdf/install.log --single-version-externally-managed install_data
+[0.658s] running egg_info
+[0.659s] creating ../../../build/practice3_urdf/practice3_urdf.egg-info
+[0.659s] writing ../../../build/practice3_urdf/practice3_urdf.egg-info/PKG-INFO
+[0.659s] writing dependency_links to ../../../build/practice3_urdf/practice3_urdf.egg-info/dependency_links.txt
+[0.659s] writing entry points to ../../../build/practice3_urdf/practice3_urdf.egg-info/entry_points.txt
+[0.659s] writing requirements to ../../../build/practice3_urdf/practice3_urdf.egg-info/requires.txt
+[0.659s] writing top-level names to ../../../build/practice3_urdf/practice3_urdf.egg-info/top_level.txt
+[0.659s] writing manifest file '../../../build/practice3_urdf/practice3_urdf.egg-info/SOURCES.txt'
+[0.659s] reading manifest file '../../../build/practice3_urdf/practice3_urdf.egg-info/SOURCES.txt'
+[0.660s] writing manifest file '../../../build/practice3_urdf/practice3_urdf.egg-info/SOURCES.txt'
+[0.660s] running build
+[0.660s] running build_py
+[0.660s] creating /home/lin/PRACTICE-Simulator/build/practice3_urdf/build
+[0.660s] creating /home/lin/PRACTICE-Simulator/build/practice3_urdf/build/lib
+[0.660s] creating /home/lin/PRACTICE-Simulator/build/practice3_urdf/build/lib/practice3_urdf
+[0.660s] copying practice3_urdf/__init__.py -> /home/lin/PRACTICE-Simulator/build/practice3_urdf/build/lib/practice3_urdf
+[0.660s] running install
+[0.660s] running install_lib
+[0.661s] creating /home/lin/PRACTICE-Simulator/install/practice3_urdf/lib/python3.10/site-packages/practice3_urdf
+[0.661s] copying /home/lin/PRACTICE-Simulator/build/practice3_urdf/build/lib/practice3_urdf/__init__.py -> /home/lin/PRACTICE-Simulator/install/practice3_urdf/lib/python3.10/site-packages/practice3_urdf
+[0.661s] byte-compiling /home/lin/PRACTICE-Simulator/install/practice3_urdf/lib/python3.10/site-packages/practice3_urdf/__init__.py to __init__.cpython-310.pyc
+[0.662s] running install_data
+[0.662s] creating /home/lin/PRACTICE-Simulator/install/practice3_urdf/share/ament_index
+[0.662s] creating /home/lin/PRACTICE-Simulator/install/practice3_urdf/share/ament_index/resource_index
+[0.662s] creating /home/lin/PRACTICE-Simulator/install/practice3_urdf/share/ament_index/resource_index/packages
+[0.662s] copying resource/practice3_urdf -> /home/lin/PRACTICE-Simulator/install/practice3_urdf/share/ament_index/resource_index/packages
+[0.662s] copying package.xml -> /home/lin/PRACTICE-Simulator/install/practice3_urdf/share/practice3_urdf
+[0.662s] creating /home/lin/PRACTICE-Simulator/install/practice3_urdf/share/practice3_urdf/launch
+[0.662s] copying launch/display_urdf.launch.py -> /home/lin/PRACTICE-Simulator/install/practice3_urdf/share/practice3_urdf/launch
+[0.662s] creating /home/lin/PRACTICE-Simulator/install/practice3_urdf/share/practice3_urdf/urdf
+[0.662s] copying urdf/L_Hip_Link.STL -> /home/lin/PRACTICE-Simulator/install/practice3_urdf/share/practice3_urdf/urdf
+[0.662s] copying urdf/R_Wheel_Link.STL -> /home/lin/PRACTICE-Simulator/install/practice3_urdf/share/practice3_urdf/urdf
+[0.663s] copying urdf/practice3.csv -> /home/lin/PRACTICE-Simulator/install/practice3_urdf/share/practice3_urdf/urdf
+[0.663s] copying urdf/L_Knee_Link.STL -> /home/lin/PRACTICE-Simulator/install/practice3_urdf/share/practice3_urdf/urdf
+[0.665s] copying urdf/R_Hip_Link.STL -> /home/lin/PRACTICE-Simulator/install/practice3_urdf/share/practice3_urdf/urdf
+[0.666s] copying urdf/practice3.urdf -> /home/lin/PRACTICE-Simulator/install/practice3_urdf/share/practice3_urdf/urdf
+[0.666s] copying urdf/base_link.STL -> /home/lin/PRACTICE-Simulator/install/practice3_urdf/share/practice3_urdf/urdf
+[0.692s] copying urdf/R_Knee_Link.STL -> /home/lin/PRACTICE-Simulator/install/practice3_urdf/share/practice3_urdf/urdf
+[0.693s] copying urdf/L_Wheel_Link.STL -> /home/lin/PRACTICE-Simulator/install/practice3_urdf/share/practice3_urdf/urdf
+[0.694s] creating /home/lin/PRACTICE-Simulator/install/practice3_urdf/share/practice3_urdf/meshes
+[0.695s] copying meshes/L_Hip_Link.STL -> /home/lin/PRACTICE-Simulator/install/practice3_urdf/share/practice3_urdf/meshes
+[0.696s] copying meshes/R_Wheel_Link.STL -> /home/lin/PRACTICE-Simulator/install/practice3_urdf/share/practice3_urdf/meshes
+[0.697s] copying meshes/L_Knee_Link.STL -> /home/lin/PRACTICE-Simulator/install/practice3_urdf/share/practice3_urdf/meshes
+[0.699s] copying meshes/R_Hip_Link.STL -> /home/lin/PRACTICE-Simulator/install/practice3_urdf/share/practice3_urdf/meshes
+[0.700s] copying meshes/base_link.STL -> /home/lin/PRACTICE-Simulator/install/practice3_urdf/share/practice3_urdf/meshes
+[0.730s] copying meshes/R_Knee_Link.STL -> /home/lin/PRACTICE-Simulator/install/practice3_urdf/share/practice3_urdf/meshes
+[0.731s] copying meshes/L_Wheel_Link.STL -> /home/lin/PRACTICE-Simulator/install/practice3_urdf/share/practice3_urdf/meshes
+[0.732s] running install_egg_info
+[0.733s] Copying ../../../build/practice3_urdf/practice3_urdf.egg-info to /home/lin/PRACTICE-Simulator/install/practice3_urdf/lib/python3.10/site-packages/practice3_urdf-0.0.0-py3.10.egg-info
+[0.734s] running install_scripts
+[0.743s] writing list of installed files to '/home/lin/PRACTICE-Simulator/build/practice3_urdf/install.log'

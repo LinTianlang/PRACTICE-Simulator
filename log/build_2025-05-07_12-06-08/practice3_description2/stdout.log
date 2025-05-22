@@ -1,0 +1,16 @@
+running egg_info
+creating ../../../build/practice3_description2/practice3_description2.egg-info
+writing ../../../build/practice3_description2/practice3_description2.egg-info/PKG-INFO
+writing dependency_links to ../../../build/practice3_description2/practice3_description2.egg-info/dependency_links.txt
+writing entry points to ../../../build/practice3_description2/practice3_description2.egg-info/entry_points.txt
+writing requirements to ../../../build/practice3_description2/practice3_description2.egg-info/requires.txt
+writing top-level names to ../../../build/practice3_description2/practice3_description2.egg-info/top_level.txt
+writing manifest file '../../../build/practice3_description2/practice3_description2.egg-info/SOURCES.txt'
+reading manifest file '../../../build/practice3_description2/practice3_description2.egg-info/SOURCES.txt'
+writing manifest file '../../../build/practice3_description2/practice3_description2.egg-info/SOURCES.txt'
+running build
+running install
+running install_data
+creating /home/lin/PRACTICE-Simulator/install/practice3_description2/share/ament_index
+creating /home/lin/PRACTICE-Simulator/install/practice3_description2/share/ament_index/resource_index
+creating /home/lin/PRACTICE-Simulator/install/practice3_description2/share/ament_index/resource_index/packages

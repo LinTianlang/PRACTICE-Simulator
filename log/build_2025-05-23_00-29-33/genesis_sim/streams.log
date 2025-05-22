@@ -1,0 +1,20 @@
+[0.783s] Invoking command in '/home/lin/PRACTICE-Simulator/practice_sim/src/genesis_sim': PYTHONPATH=/home/lin/PRACTICE-Simulator/build/genesis_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lin/PRACTICE-Simulator/install/genesis_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/genesis_sim build --build-base /home/lin/PRACTICE-Simulator/build/genesis_sim/build install --record /home/lin/PRACTICE-Simulator/build/genesis_sim/install.log --single-version-externally-managed install_data
+[0.894s] running egg_info
+[0.894s] writing ../../../build/genesis_sim/genesis_sim.egg-info/PKG-INFO
+[0.894s] writing dependency_links to ../../../build/genesis_sim/genesis_sim.egg-info/dependency_links.txt
+[0.894s] writing entry points to ../../../build/genesis_sim/genesis_sim.egg-info/entry_points.txt
+[0.894s] writing requirements to ../../../build/genesis_sim/genesis_sim.egg-info/requires.txt
+[0.894s] writing top-level names to ../../../build/genesis_sim/genesis_sim.egg-info/top_level.txt
+[0.895s] reading manifest file '../../../build/genesis_sim/genesis_sim.egg-info/SOURCES.txt'
+[0.901s] writing manifest file '../../../build/genesis_sim/genesis_sim.egg-info/SOURCES.txt'
+[0.901s] running build
+[0.901s] running build_py
+[0.901s] running install
+[0.901s] running install_lib
+[0.902s] running install_data
+[0.902s] running install_egg_info
+[0.902s] removing '/home/lin/PRACTICE-Simulator/install/genesis_sim/lib/python3.10/site-packages/genesis_sim-0.0.0-py3.10.egg-info' (and everything under it)
+[0.902s] Copying ../../../build/genesis_sim/genesis_sim.egg-info to /home/lin/PRACTICE-Simulator/install/genesis_sim/lib/python3.10/site-packages/genesis_sim-0.0.0-py3.10.egg-info
+[0.903s] running install_scripts
+[0.912s] writing list of installed files to '/home/lin/PRACTICE-Simulator/build/genesis_sim/install.log'
+[0.926s] Invoked command in '/home/lin/PRACTICE-Simulator/practice_sim/src/genesis_sim' returned '0': PYTHONPATH=/home/lin/PRACTICE-Simulator/build/genesis_sim/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lin/PRACTICE-Simulator/install/genesis_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/genesis_sim build --build-base /home/lin/PRACTICE-Simulator/build/genesis_sim/build install --record /home/lin/PRACTICE-Simulator/build/genesis_sim/install.log --single-version-externally-managed install_data

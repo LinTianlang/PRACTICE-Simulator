@@ -1,0 +1,60 @@
+[0.000000] (-) TimerEvent: {}
+[0.000550] (balance_infantry_urdf) JobQueued: {'identifier': 'balance_infantry_urdf', 'dependencies': OrderedDict()}
+[0.000600] (genesis_sim) JobQueued: {'identifier': 'genesis_sim', 'dependencies': OrderedDict()}
+[0.000619] (practice3_description2) JobQueued: {'identifier': 'practice3_description2', 'dependencies': OrderedDict()}
+[0.000634] (practice3_urdf) JobQueued: {'identifier': 'practice3_urdf', 'dependencies': OrderedDict()}
+[0.000648] (balance_infantry_urdf) JobStarted: {'identifier': 'balance_infantry_urdf'}
+[0.004541] (genesis_sim) JobStarted: {'identifier': 'genesis_sim'}
+[0.005850] (practice3_description2) JobStarted: {'identifier': 'practice3_description2'}
+[0.006621] (practice3_urdf) JobStarted: {'identifier': 'practice3_urdf'}
+[0.100010] (-) TimerEvent: {}
+[0.200270] (-) TimerEvent: {}
+[0.214649] (practice3_description2) JobProgress: {'identifier': 'practice3_description2', 'progress': 'cmake'}
+[0.214914] (practice3_description2) Command: {'cmd': ['/usr/bin/cmake', '/home/lin/PRACTICE-Simulator/practice_sim/src/practice3_description2', '-DCATKIN_INSTALL_INTO_PREFIX_ROOT=0', '-DCMAKE_INSTALL_PREFIX=/home/lin/PRACTICE-Simulator/install/practice3_description2'], 'cwd': '/home/lin/PRACTICE-Simulator/build/practice3_description2', 'env': OrderedDict([('GJS_DEBUG_TOPICS', 'JS ERROR;JS LOG'), ('LANGUAGE', 'zh_CN:en'), ('LC_TIME', 'en_US.UTF-8'), ('USER', 'lin'), ('STM32CubeMX_PATH', '/home/lin/STM32CubeMX'), ('XDG_SESSION_TYPE', 'x11'), ('GIT_ASKPASS', '/usr/share/code/resources/app/extensions/git/dist/askpass.sh'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/usr/local/cuda-12.1/lib64:'), ('CHROME_DESKTOP', 'code.desktop'), ('HOME', '/home/lin'), ('OLDPWD', '/home/lin/PRACTICE-Simulator'), ('LESS', '-R'), ('CONDA_SHLVL', '0'), ('DESKTOP_SESSION', 'ubuntu'), ('TERM_PROGRAM_VERSION', '1.96.4'), ('GIO_LAUNCHED_DESKTOP_FILE', '/usr/share/applications/code.desktop'), ('ZSH', '/home/lin/.oh-my-zsh'), ('LSCOLORS', 'Gxfxcxdxbxegedabagacad'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('VSCODE_GIT_ASKPASS_MAIN', '/usr/share/code/resources/app/extensions/git/dist/askpass-main.js'), ('PAGER', 'less'), ('LC_MONETARY', 'en_US.UTF-8'), ('MANAGERPID', '2731'), ('VSCODE_GIT_ASKPASS_NODE', '/usr/share/code/code'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('SYSTEMD_EXEC_PID', '2997'), ('PYDEVD_DISABLE_FILE_VALIDATION', '1'), ('BUNDLED_DEBUGPY_PATH', '/home/lin/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy'), ('P9K_TTY', 'old'), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '7422'), ('COLORTERM', 'truecolor'), ('_CE_M', ''), ('https_proxy', 'https://lin:0918@127.0.0.1:7890'), ('GTK_IM_MODULE', 'ibus'), ('LOGNAME', 'lin'), ('JOURNAL_STREAM', '8:1698'), ('_P9K_SSH_TTY', '/dev/pts/2'), ('http_proxy', 'http://lin:0918@127.0.0.1:7890'), ('_', '/usr/bin/colcon'), ('XDG_SESSION_CLASS', 'user'), ('USER_ZDOTDIR', '/home/lin'), ('USERNAME', 'lin'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('_CE_CONDA', ''), ('WINDOWPATH', '2'), ('PATH', '/usr/local/cuda-12.1/bin:/home/lin/anaconda3/condabin:/home/lin/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/lin/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/scripts/noConfigScripts:/home/lin/.config/Code/User/globalStorage/github.copilot-chat/debugCommand'), ('INVOCATION_ID', '34c18fa20a2348b3a8d531d041802d01'), ('PAPERSIZE', 'letter'), ('SESSION_MANAGER', 'local/lin-workstation:@/tmp/.ICE-unix/2969,unix/lin-workstation:/tmp/.ICE-unix/2969'), ('GDK_BACKEND', 'x11'), ('LC_ADDRESS', 'en_US.UTF-8'), ('XDG_MENU_PREFIX', 'gnome-'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('DISPLAY', ':1'), ('LANG', 'zh_CN.UTF-8'), ('LC_TELEPHONE', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'Unity'), ('VSCODE_DEBUGPY_ADAPTER_ENDPOINTS', '/home/lin/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/.noConfigDebugAdapterEndpoints/endpoint-86cc6ae44a6d96e8.txt'), ('VSCODE_INJECTION', '1'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XMODIFIERS', '@im=ibus'), ('TERM_PROGRAM', 'vscode'), ('VSCODE_GIT_IPC_HANDLE', '/run/user/1000/vscode-git-dfaf55b401.sock'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('ORIGINAL_XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('CONDA_PYTHON_EXE', '/home/lin/anaconda3/bin/python'), ('ROS_DOMAIN_ID', '5'), ('LC_NAME', 'en_US.UTF-8'), ('SHELL', '/bin/zsh'), ('GDMSESSION', 'ubuntu'), ('QT_ACCESSIBILITY', '1'), ('LC_MEASUREMENT', 'en_US.UTF-8'), ('GJS_DEBUG_OUTPUT', 'stderr'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('LC_IDENTIFICATION', 'en_US.UTF-8'), ('P9K_SSH', '0'), ('QT_IM_MODULE', 'ibus'), ('VSCODE_GIT_ASKPASS_EXTRA_ARGS', ''), ('VSCODE_NONCE', 'd0952176-b0d3-41ff-b2af-96e86e3f2293'), ('LC_ALL', 'en_US.UTF-8'), ('PWD', '/home/lin/PRACTICE-Simulator/build/practice3_description2'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('ZDOTDIR', '/home/lin'), ('_P9K_TTY', '/dev/pts/2'), ('CONDA_EXE', '/home/lin/anaconda3/bin/conda'), ('LC_NUMERIC', 'en_US.UTF-8'), ('LC_PAPER', 'en_US.UTF-8'), ('COLCON', '1')]), 'shell': False}
+[0.220119] (practice3_description2) StderrLine: {'line': b'\x1b[0mCMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):\n'}
+[0.220189] (practice3_description2) StderrLine: {'line': b'  Compatibility with CMake < 2.8.12 will be removed from a future version of\n'}
+[0.220215] (practice3_description2) StderrLine: {'line': b'  CMake.\n'}
+[0.220237] (practice3_description2) StderrLine: {'line': b'\n'}
+[0.220257] (practice3_description2) StderrLine: {'line': b'  Update the VERSION argument <min> value or use a ...<max> suffix to tell\n'}
+[0.220277] (practice3_description2) StderrLine: {'line': b'  CMake that the project does not need compatibility with older versions.\n'}
+[0.220297] (practice3_description2) StderrLine: {'line': b'\n'}
+[0.220316] (practice3_description2) StderrLine: {'line': b'\x1b[0m\n'}
+[0.275308] (practice3_description2) StdoutLine: {'line': b'-- The C compiler identification is GNU 11.4.0\n'}
+[0.300355] (-) TimerEvent: {}
+[0.320995] (practice3_description2) StdoutLine: {'line': b'-- The CXX compiler identification is GNU 11.4.0\n'}
+[0.329341] (practice3_description2) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[0.378364] (practice3_description2) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[0.382354] (practice3_description2) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc - skipped\n'}
+[0.382615] (practice3_description2) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[0.383018] (practice3_description2) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[0.385123] (practice3_description2) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[0.400424] (-) TimerEvent: {}
+[0.429572] (practice3_description2) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[0.433686] (practice3_description2) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++ - skipped\n'}
+[0.433823] (practice3_description2) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[0.434078] (practice3_description2) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[0.438683] (practice3_description2) StderrLine: {'line': b'\x1b[31mCMake Error at CMakeLists.txt:5 (find_package):\n'}
+[0.438769] (practice3_description2) StderrLine: {'line': b'  By not providing "Findcatkin.cmake" in CMAKE_MODULE_PATH this project has\n'}
+[0.438822] (practice3_description2) StderrLine: {'line': b'  asked CMake to find a package configuration file provided by "catkin", but\n'}
+[0.438870] (practice3_description2) StderrLine: {'line': b'  CMake did not find one.\n'}
+[0.438917] (practice3_description2) StderrLine: {'line': b'\n'}
+[0.438963] (practice3_description2) StderrLine: {'line': b'  Could not find a package configuration file provided by "catkin" with any\n'}
+[0.439008] (practice3_description2) StderrLine: {'line': b'  of the following names:\n'}
+[0.439088] (practice3_description2) StderrLine: {'line': b'\n'}
+[0.439117] (practice3_description2) StderrLine: {'line': b'    catkinConfig.cmake\n'}
+[0.439139] (practice3_description2) StderrLine: {'line': b'    catkin-config.cmake\n'}
+[0.439160] (practice3_description2) StderrLine: {'line': b'\n'}
+[0.439179] (practice3_description2) StderrLine: {'line': b'  Add the installation prefix of "catkin" to CMAKE_PREFIX_PATH or set\n'}
+[0.439199] (practice3_description2) StderrLine: {'line': b'  "catkin_DIR" to a directory containing one of the above files.  If "catkin"\n'}
+[0.439218] (practice3_description2) StderrLine: {'line': b'  provides a separate development package or SDK, be sure it has been\n'}
+[0.439236] (practice3_description2) StderrLine: {'line': b'  installed.\n'}
+[0.439255] (practice3_description2) StderrLine: {'line': b'\n'}
+[0.439273] (practice3_description2) StderrLine: {'line': b'\x1b[0m\n'}
+[0.439292] (practice3_description2) StdoutLine: {'line': b'-- Configuring incomplete, errors occurred!\n'}
+[0.439314] (practice3_description2) StdoutLine: {'line': b'See also "/home/lin/PRACTICE-Simulator/build/practice3_description2/CMakeFiles/CMakeOutput.log".\n'}
+[0.440390] (practice3_description2) CommandEnded: {'returncode': 1}
+[0.452002] (practice3_description2) JobEnded: {'identifier': 'practice3_description2', 'rc': 1}
+[0.472129] (practice3_urdf) JobEnded: {'identifier': 'practice3_urdf', 'rc': 'SIGINT'}
+[0.472527] (genesis_sim) JobEnded: {'identifier': 'genesis_sim', 'rc': 'SIGINT'}
+[0.474085] (balance_infantry_urdf) JobEnded: {'identifier': 'balance_infantry_urdf', 'rc': 'SIGINT'}
+[0.484376] (-) EventReactorShutdown: {}

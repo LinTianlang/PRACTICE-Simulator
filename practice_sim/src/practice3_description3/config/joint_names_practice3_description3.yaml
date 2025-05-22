@@ -1,0 +1,1 @@
+controller_joint_names: ['', 'left_hip_joint_1', 'left_hip_joint_2', 'left_knee_joint', 'left_wheel_joint', 'right_hip_joint_1', 'right_hip_joint_2', 'right_knee_joint', 'right_wheel_joint', 'lf_guidewheel_joint', 'lb_guidewheel_joint', 'rf_guidewheel_joint', 'rb_guidewheel_joint', 'gimbal_yaw_joint', 'gimbal_pitch_joint', ]

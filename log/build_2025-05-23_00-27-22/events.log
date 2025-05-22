@@ -1,0 +1,24 @@
+[0.000000] (-) TimerEvent: {}
+[0.000392] (balance_infantry_urdf) JobQueued: {'identifier': 'balance_infantry_urdf', 'dependencies': OrderedDict()}
+[0.000424] (genesis_sim) JobQueued: {'identifier': 'genesis_sim', 'dependencies': OrderedDict()}
+[0.000472] (practice3_description2) JobQueued: {'identifier': 'practice3_description2', 'dependencies': OrderedDict()}
+[0.000493] (practice3_description3) JobQueued: {'identifier': 'practice3_description3', 'dependencies': OrderedDict()}
+[0.000513] (practice3_urdf) JobQueued: {'identifier': 'practice3_urdf', 'dependencies': OrderedDict()}
+[0.000564] (balance_infantry_urdf) JobStarted: {'identifier': 'balance_infantry_urdf'}
+[0.003613] (genesis_sim) JobStarted: {'identifier': 'genesis_sim'}
+[0.005374] (practice3_description2) JobStarted: {'identifier': 'practice3_description2'}
+[0.009341] (practice3_description3) JobStarted: {'identifier': 'practice3_description3'}
+[0.011317] (practice3_urdf) JobStarted: {'identifier': 'practice3_urdf'}
+[0.100039] (-) TimerEvent: {}
+[0.200365] (-) TimerEvent: {}
+[0.300584] (-) TimerEvent: {}
+[0.400800] (-) TimerEvent: {}
+[0.501044] (-) TimerEvent: {}
+[0.529501] (practice3_description3) StderrLine: {'line': b'Traceback (most recent call last):\n  File "/usr/lib/python3/dist-packages/colcon_core/executor/__init__.py", line 91, in __call__\n    rc = await self.task(*args, **kwargs)\n  File "/usr/lib/python3/dist-packages/colcon_core/task/__init__.py", line 93, in __call__\n    return await task_method(*args, **kwargs)\n  File "/usr/lib/python3/dist-packages/colcon_ros/task/ament_python/build.py", line 102, in build\n    return await extension.build(additional_hooks=additional_hooks)\n  File "/usr/lib/python3/dist-packages/colcon_core/task/python/build.py", line 96, in build\n    available_commands = await self._get_available_commands(\n  File "/usr/lib/python3/dist-packages/colcon_core/task/python/build.py", line 194, in _get_available_commands\n    output = await check_output(\n  File "/usr/lib/python3/dist-packages/colcon_core/subprocess.py", line 129, in check_output\n    assert not rc, f\'Expected {args} to pass: {stderr_data}\'\nAssertionError: Expected [\'/usr/bin/python3\', \'-W\', \'ignore:setup.py install is deprecated\', \'-W\', \'ignore:easy_install command is deprecated\', \'setup.py\', \'--help-commands\'] to pass: /usr/bin/python3: can\'t open file \'/home/lin/PRACTICE-Simulator/practice_sim/src/practice3_description3/setup.py\': [Errno 2] No such file or directory\n\n'}
+[0.529847] (practice3_description3) JobEnded: {'identifier': 'practice3_description3', 'rc': 1}
+[0.601171] (-) TimerEvent: {}
+[0.667930] (practice3_description2) JobEnded: {'identifier': 'practice3_description2', 'rc': 'SIGINT'}
+[0.668495] (practice3_urdf) JobEnded: {'identifier': 'practice3_urdf', 'rc': 'SIGINT'}
+[0.668989] (genesis_sim) JobEnded: {'identifier': 'genesis_sim', 'rc': 'SIGINT'}
+[0.669072] (balance_infantry_urdf) JobEnded: {'identifier': 'balance_infantry_urdf', 'rc': 'SIGINT'}
+[0.679339] (-) EventReactorShutdown: {}

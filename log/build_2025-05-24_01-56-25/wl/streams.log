@@ -1,0 +1,47 @@
+[0.893s] Invoking command in '/home/lin/PRACTICE-Simulator/practice_sim/src/wl': PYTHONPATH=/home/lin/PRACTICE-Simulator/build/wl/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lin/PRACTICE-Simulator/install/wl/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/wl build --build-base /home/lin/PRACTICE-Simulator/build/wl/build install --record /home/lin/PRACTICE-Simulator/build/wl/install.log --single-version-externally-managed install_data
+[1.003s] running egg_info
+[1.003s] writing ../../../build/wl/wl.egg-info/PKG-INFO
+[1.003s] writing dependency_links to ../../../build/wl/wl.egg-info/dependency_links.txt
+[1.003s] writing entry points to ../../../build/wl/wl.egg-info/entry_points.txt
+[1.003s] writing requirements to ../../../build/wl/wl.egg-info/requires.txt
+[1.003s] writing top-level names to ../../../build/wl/wl.egg-info/top_level.txt
+[1.003s] reading manifest file '../../../build/wl/wl.egg-info/SOURCES.txt'
+[1.004s] writing manifest file '../../../build/wl/wl.egg-info/SOURCES.txt'
+[1.004s] running build
+[1.004s] running install
+[1.004s] running install_data
+[1.004s] copying resource/wl -> /home/lin/PRACTICE-Simulator/install/wl/share/ament_index/resource_index/packages
+[1.004s] copying package.xml -> /home/lin/PRACTICE-Simulator/install/wl/share/wl
+[1.004s] creating /home/lin/PRACTICE-Simulator/install/wl/share/wl/launch
+[1.004s] copying launch/display_urdf.launch.py -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/launch
+[1.005s] creating /home/lin/PRACTICE-Simulator/install/wl/share/wl/urdf
+[1.005s] copying urdf/wl.csv -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/urdf
+[1.005s] copying urdf/wl.urdf -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/urdf
+[1.005s] creating /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+[1.005s] copying meshes/r_Wheel_Link.STL -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+[1.005s] copying meshes/base_link.obj -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+[1.007s] copying meshes/lf0_Link.STL -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+[1.007s] copying meshes/lf1_Link.dae -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+[1.007s] copying meshes/rf0_Link.dae -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+[1.007s] copying meshes/lf0_Link.dae -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+[1.007s] copying meshes/r_Wheel_Link.obj -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+[1.007s] copying meshes/l_Wheel_Link.dae -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+[1.007s] copying meshes/base_link.dae -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+[1.008s] copying meshes/l_Wheel_Link.STL -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+[1.008s] copying meshes/lf0_Link.obj -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+[1.008s] copying meshes/lf1_Link.obj -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+[1.008s] copying meshes/lf1_Link.STL -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+[1.008s] copying meshes/rf1_Link.dae -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+[1.008s] copying meshes/rf0_Link.obj -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+[1.008s] copying meshes/l_Wheel_Link.obj -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+[1.008s] copying meshes/base_link.STL -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+[1.010s] copying meshes/rf1_Link.obj -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+[1.010s] copying meshes/rf0_Link.STL -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+[1.010s] copying meshes/rf1_Link.STL -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+[1.010s] copying meshes/r_Wheel_Link.dae -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+[1.010s] copying meshes/base_link backup.STL -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+[1.019s] running install_egg_info
+[1.020s] Copying ../../../build/wl/wl.egg-info to /home/lin/PRACTICE-Simulator/install/wl/lib/python3.10/site-packages/wl-0.0.0-py3.10.egg-info
+[1.020s] running install_scripts
+[1.031s] writing list of installed files to '/home/lin/PRACTICE-Simulator/build/wl/install.log'
+[1.050s] Invoked command in '/home/lin/PRACTICE-Simulator/practice_sim/src/wl' returned '0': PYTHONPATH=/home/lin/PRACTICE-Simulator/build/wl/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lin/PRACTICE-Simulator/install/wl/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/wl build --build-base /home/lin/PRACTICE-Simulator/build/wl/build install --record /home/lin/PRACTICE-Simulator/build/wl/install.log --single-version-externally-managed install_data

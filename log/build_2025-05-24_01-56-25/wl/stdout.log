@@ -1,0 +1,45 @@
+running egg_info
+writing ../../../build/wl/wl.egg-info/PKG-INFO
+writing dependency_links to ../../../build/wl/wl.egg-info/dependency_links.txt
+writing entry points to ../../../build/wl/wl.egg-info/entry_points.txt
+writing requirements to ../../../build/wl/wl.egg-info/requires.txt
+writing top-level names to ../../../build/wl/wl.egg-info/top_level.txt
+reading manifest file '../../../build/wl/wl.egg-info/SOURCES.txt'
+writing manifest file '../../../build/wl/wl.egg-info/SOURCES.txt'
+running build
+running install
+running install_data
+copying resource/wl -> /home/lin/PRACTICE-Simulator/install/wl/share/ament_index/resource_index/packages
+copying package.xml -> /home/lin/PRACTICE-Simulator/install/wl/share/wl
+creating /home/lin/PRACTICE-Simulator/install/wl/share/wl/launch
+copying launch/display_urdf.launch.py -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/launch
+creating /home/lin/PRACTICE-Simulator/install/wl/share/wl/urdf
+copying urdf/wl.csv -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/urdf
+copying urdf/wl.urdf -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/urdf
+creating /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+copying meshes/r_Wheel_Link.STL -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+copying meshes/base_link.obj -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+copying meshes/lf0_Link.STL -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+copying meshes/lf1_Link.dae -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+copying meshes/rf0_Link.dae -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+copying meshes/lf0_Link.dae -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+copying meshes/r_Wheel_Link.obj -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+copying meshes/l_Wheel_Link.dae -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+copying meshes/base_link.dae -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+copying meshes/l_Wheel_Link.STL -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+copying meshes/lf0_Link.obj -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+copying meshes/lf1_Link.obj -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+copying meshes/lf1_Link.STL -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+copying meshes/rf1_Link.dae -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+copying meshes/rf0_Link.obj -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+copying meshes/l_Wheel_Link.obj -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+copying meshes/base_link.STL -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+copying meshes/rf1_Link.obj -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+copying meshes/rf0_Link.STL -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+copying meshes/rf1_Link.STL -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+copying meshes/r_Wheel_Link.dae -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+copying meshes/base_link backup.STL -> /home/lin/PRACTICE-Simulator/install/wl/share/wl/meshes
+running install_egg_info
+Copying ../../../build/wl/wl.egg-info to /home/lin/PRACTICE-Simulator/install/wl/lib/python3.10/site-packages/wl-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/lin/PRACTICE-Simulator/build/wl/install.log'

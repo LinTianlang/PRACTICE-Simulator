@@ -1,0 +1,18 @@
+[0.898s] Invoking command in '/home/lin/PRACTICE-Simulator/practice_sim/src/practice3_description3': PYTHONPATH=/home/lin/PRACTICE-Simulator/build/practice3_description3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lin/PRACTICE-Simulator/install/practice3_description3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/practice3_description3 build --build-base /home/lin/PRACTICE-Simulator/build/practice3_description3/build install --record /home/lin/PRACTICE-Simulator/build/practice3_description3/install.log --single-version-externally-managed install_data
+[1.014s] running egg_info
+[1.015s] writing ../../../build/practice3_description3/practice3_description3.egg-info/PKG-INFO
+[1.015s] writing dependency_links to ../../../build/practice3_description3/practice3_description3.egg-info/dependency_links.txt
+[1.015s] writing entry points to ../../../build/practice3_description3/practice3_description3.egg-info/entry_points.txt
+[1.015s] writing requirements to ../../../build/practice3_description3/practice3_description3.egg-info/requires.txt
+[1.015s] writing top-level names to ../../../build/practice3_description3/practice3_description3.egg-info/top_level.txt
+[1.015s] reading manifest file '../../../build/practice3_description3/practice3_description3.egg-info/SOURCES.txt'
+[1.015s] writing manifest file '../../../build/practice3_description3/practice3_description3.egg-info/SOURCES.txt'
+[1.016s] running build
+[1.016s] running install
+[1.016s] running install_data
+[1.016s] running install_egg_info
+[1.017s] removing '/home/lin/PRACTICE-Simulator/install/practice3_description3/lib/python3.10/site-packages/practice3_description3-0.0.0-py3.10.egg-info' (and everything under it)
+[1.017s] Copying ../../../build/practice3_description3/practice3_description3.egg-info to /home/lin/PRACTICE-Simulator/install/practice3_description3/lib/python3.10/site-packages/practice3_description3-0.0.0-py3.10.egg-info
+[1.017s] running install_scripts
+[1.027s] writing list of installed files to '/home/lin/PRACTICE-Simulator/build/practice3_description3/install.log'
+[1.044s] Invoked command in '/home/lin/PRACTICE-Simulator/practice_sim/src/practice3_description3' returned '0': PYTHONPATH=/home/lin/PRACTICE-Simulator/build/practice3_description3/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lin/PRACTICE-Simulator/install/practice3_description3/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/practice3_description3 build --build-base /home/lin/PRACTICE-Simulator/build/practice3_description3/build install --record /home/lin/PRACTICE-Simulator/build/practice3_description3/install.log --single-version-externally-managed install_data

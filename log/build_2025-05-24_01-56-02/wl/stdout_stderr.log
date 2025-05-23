@@ -1,0 +1,12 @@
+running egg_info
+writing ../../../build/wl/wl.egg-info/PKG-INFO
+writing dependency_links to ../../../build/wl/wl.egg-info/dependency_links.txt
+writing entry points to ../../../build/wl/wl.egg-info/entry_points.txt
+writing requirements to ../../../build/wl/wl.egg-info/requires.txt
+writing top-level names to ../../../build/wl/wl.egg-info/top_level.txt
+reading manifest file '../../../build/wl/wl.egg-info/SOURCES.txt'
+error: can't copy 'resource/wl': doesn't exist or not a regular file
+writing manifest file '../../../build/wl/wl.egg-info/SOURCES.txt'
+running build
+running install
+running install_data

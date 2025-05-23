@@ -1,0 +1,16 @@
+running egg_info
+creating ../../../build/wl/wl.egg-info
+writing ../../../build/wl/wl.egg-info/PKG-INFO
+writing dependency_links to ../../../build/wl/wl.egg-info/dependency_links.txt
+writing entry points to ../../../build/wl/wl.egg-info/entry_points.txt
+writing requirements to ../../../build/wl/wl.egg-info/requires.txt
+writing top-level names to ../../../build/wl/wl.egg-info/top_level.txt
+writing manifest file '../../../build/wl/wl.egg-info/SOURCES.txt'
+reading manifest file '../../../build/wl/wl.egg-info/SOURCES.txt'
+writing manifest file '../../../build/wl/wl.egg-info/SOURCES.txt'
+running build
+running install
+running install_data
+creating /home/lin/PRACTICE-Simulator/install/wl/share/ament_index
+creating /home/lin/PRACTICE-Simulator/install/wl/share/ament_index/resource_index
+creating /home/lin/PRACTICE-Simulator/install/wl/share/ament_index/resource_index/packages
